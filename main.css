@@ -1,0 +1,36 @@
+label{
+   color: #000;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: 700;
+    
+}
+
+span{
+    display: block;
+    color: red;
+}
+.login1{
+   display: none;
+}
+.login2{
+    display: none;
+ }
+ .login3{
+    display: none;
+ }
+ .login4{
+    display: none;
+ }
+ .login5{
+    display: none;
+ }
+ .login6{
+    display: none;
+ }
+ .login7{
+    display: none;
+ }
+
+.error{
+    border: 2px red solid;
+}
